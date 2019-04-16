@@ -1,0 +1,10 @@
+{
+  "name": "tslint-config-cognite-3d",
+  "version": "1.0.0",
+  "description": "tslint configuration for Cognite 3D team projects",
+  "main": "index.js",
+  "repository": "https://github.com/cognitedata/tslint-config-cognite-3d",
+  "author": "Nicholas Sunderland",
+  "license": "Apache-2.0",
+  "private": true
+}

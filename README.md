@@ -1,2 +1,3 @@
-# 3d-tslint-rules
-Custom TypeScript rules for the 3D team
+# tslint-config-cognite-3d
+
+tslint configuration for Cognite 3D team projects

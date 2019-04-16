@@ -20,7 +20,7 @@
       "allow-pascal-case"
     ],
     "interface-name": [true, "never-prefix"],
-    "member-access": [true, "no-public"],
+    "member-access": false,
     "array-type": [true, "array"],
     "ordered-imports": false,
     "max-classes-per-file": false,

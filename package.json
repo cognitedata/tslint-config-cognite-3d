@@ -1,6 +1,6 @@
 {
   "name": "@cognite/tslint-config-cognite-3d",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tslint configuration for Cognite 3D team projects",
   "main": "index.js",
   "repository": "https://github.com/cognitedata/tslint-config-cognite-3d",
